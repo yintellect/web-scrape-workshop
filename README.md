@@ -4,37 +4,35 @@
 
 [Video Tutorial](https://youtu.be/G4MLhb-HGN8)
 
-- [ ] ##### Python Anaconda distribution 3.7
+1. ##### Python Anaconda distribution 3.7
 
-  https://www.anaconda.com/distribution/
+   https://www.anaconda.com/distribution/
 
-- [ ] ##### Jupyter notebook (Python Library)
+2. ##### Jupyter notebook (Python Library)
 
-  ``` bash
-  pip install jupyter notebook
-  ```
+   ``` bash
+   pip install jupyter notebook
+   ```
 
-  
+   
 
-- [ ] ##### Chrome Driver
+3. ##### Chrome Driver
 
-  https://sites.google.com/a/chromium.org/chromedriver/downloads
+   https://sites.google.com/a/chromium.org/chromedriver/downloads
 
-  unzip chrome driver
+   unzip chrome driver
 
-  Press command and N to have a new Finder window
+   Press command and N to have a new Finder window
 
-  Go -> Go to Folder: /usr/local/bin
+   Go -> Go to Folder: /usr/local/bin
 
-  Drag chrome driver to /usr/local/bin
+   Drag chrome driver to /usr/local/bin
 
-- [ ] ##### selenium (Python Library)
+4. ##### selenium (Python Library)
 
-  ```bash
-  pip install selenium
-  ```
-
-
+5. ```bash
+   pip install selenium
+   ```
 
 ## Workshop Main Script
 
