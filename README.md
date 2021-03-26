@@ -36,7 +36,7 @@
 
 ## Workshop Main Script
 
-Go to https://github.com/ClaireQMSS/QSAR_Workshop
+Go to https://github.com/YiAlpha/QSAR_Workshop
 
 Download zip file![download](img/download.jpg)
 
