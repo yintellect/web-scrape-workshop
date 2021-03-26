@@ -2,7 +2,7 @@
 
 ## Install Requirements
 
-[Video Tutorial](https://youtu.be/G4MLhb-HGN8)
+[Video Tutorial](https://youtu.be/G4MLhb-HGN8) on how to set up tools for webscraping.
 
 1. ##### Python Anaconda distribution 3.7
 
