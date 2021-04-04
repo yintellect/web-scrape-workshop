@@ -1,4 +1,4 @@
-# QSAR Webscrap workshop
+# Webscrap Workshop for Columbia QMSS
 
 ## Install Requirements
 
@@ -36,8 +36,6 @@
 
 ## Workshop Main Script
 
-Go to https://github.com/YiAlpha/QSAR_Workshop
-
-Download zip file![download](img/download.jpg)
-
-Please download to follow the workshop!
+```
+git clone https://github.com/YiAlpha/web-scrape-workshop.git
+```
