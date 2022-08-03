@@ -18,7 +18,7 @@
 
 3. ##### Chrome Driver
 
-   https://sites.google.com/a/chromium.org/chromedriver/downloads
+   https://chromedriver.chromium.org/downloads
 
    unzip chrome driver
 
